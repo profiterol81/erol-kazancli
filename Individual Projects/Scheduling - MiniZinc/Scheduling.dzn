@@ -1,0 +1,8 @@
+c = 8; %number of courses
+g = 4; %number of groups per course
+nt = 1; %number of theory rooms
+nl = 1; %number of laboratory rooms
+d = 5; % number of days
+ini = 9; %first available hour
+end = 12; %last available hour
+NT =[1| i in 1..c]; %number of teachers per course

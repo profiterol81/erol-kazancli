@@ -1,0 +1,4 @@
+Rand index,Adjusted Rand Index,Davies-Bouldin Index,F-measure cluster1,F-measure cluster2,F-measure cluster3,F-measure cluster4,Purity cluster1,Purity cluster2,Purity cluster3,Purity cluster4,,
+0.55668,0.10959,0.8936,0.7247,0.57127,0,0,0.6776,0.64104,0,0
+0.87541,0.71493,0.77845,1,0.84112,0.8172,0,1,0.9,0.76,0
+0.65272,0.077257,1.5829,0.45078,0.17519,0.27156,0.26071,0.49245,0.47097,0.42385,0.3598

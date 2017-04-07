@@ -1,0 +1,7 @@
+m = 6;
+n = 15;
+minPerInMis = [4 | i in 1..m];
+
+maxPerInMis = [5 | i in 1..m];
+minMisForPer = [1 | i in 1..n];
+maxMisForPer = [3 | i in 1..n];

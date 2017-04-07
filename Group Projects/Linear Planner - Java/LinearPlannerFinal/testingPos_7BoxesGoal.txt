@@ -1,0 +1,1 @@
+Robot-location(o5);Box-location(A, o4);Box-location(G, o3);Box-location(F, o9);Box-location(E, o8);Box-location(D, o2);Box-location(C, o1);Box-location(B, o7);

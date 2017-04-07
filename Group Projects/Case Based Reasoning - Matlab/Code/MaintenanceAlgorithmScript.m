@@ -1,0 +1,16 @@
+clear;
+disp('Choosing the maintenance algorithm')
+disp('Chosen algorithms:')
+fprintf('\t All K Nearest Neighbor\n')
+fprintf('\t IB2\n')
+disp('All K Nearest Neighbor')
+disp('Hypothyroid')
+AllKNNForDataset('HypothyroidSet.mat')
+disp('Kr-vs-Kp')
+AllKNNForDataset('kr-vs-kpSet.mat')
+disp('IB2')
+disp('Hypothyroid')
+IB2ForDataset('HypothyroidSet.mat')
+disp('Kr-vs-Kp')
+IB2ForDataset('kr-vs-kpSet.mat')
+
